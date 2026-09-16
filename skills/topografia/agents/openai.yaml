@@ -1,0 +1,6 @@
+interface:
+  display_name: "Topografia"
+  short_description: "Workflow topografico: tracciamenti e rilievi"
+
+policy:
+  allow_implicit_invocation: false

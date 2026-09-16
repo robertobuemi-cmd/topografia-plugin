@@ -1,0 +1,18 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$PLUGIN_ROOT/scripts/check_dependencies.py\"",
+            "commandWindows": "python \"%PLUGIN_ROOT%\\scripts\\check_dependencies.py\"",
+            "statusMessage": "Verifica dipendenze plugin Topografia (ezdxf, ODA File Converter)",
+            "timeout": 60
+          }
+        ]
+      }
+    ]
+  }
+}
