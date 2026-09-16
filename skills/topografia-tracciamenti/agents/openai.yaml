@@ -1,2 +1,5 @@
+interface:
+  display_name: "Topografia tracciamenti"
+  short_description: "Workflow topografico per tracciamenti"
 policy:
   allow_implicit_invocation: false

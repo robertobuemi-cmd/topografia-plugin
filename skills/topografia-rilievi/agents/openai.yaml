@@ -1,2 +1,5 @@
+interface:
+  display_name: "Topografia rilievi"
+  short_description: "Workflow topografico per rilievi"
 policy:
   allow_implicit_invocation: false

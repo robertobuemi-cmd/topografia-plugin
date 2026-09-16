@@ -10,6 +10,9 @@
     "displayName": "Topografia",
     "shortDescription": "Workflow topografico: tracciamenti e rilievi",
     "developerName": "Roberto Buemi",
-    "category": "Productivity"
+    "category": "Productivity",
+    "longDescription": "Workflow topografico strutturato per tracciamenti e rilievi: lettura degli elaborati, workspace isolato e produzione output TXT, DXF e DWG.",
+    "capabilities": [],
+    "defaultPrompt": "Usa la skill topografia per guidarmi nel workflow topografico."
   }
 }
