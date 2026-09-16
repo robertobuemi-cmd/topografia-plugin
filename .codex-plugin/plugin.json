@@ -1,0 +1,15 @@
+{
+  "name": "topografia",
+  "version": "0.1.0",
+  "description": "Workflow topografico strutturato per tracciamenti e rilievi (opere edili/infrastrutturali): lettura coerente degli elaborati, preparazione workspace isolato, gestione incongruenze progettuali, produzione output TXT/DXF/DWG.",
+  "author": {
+    "name": "Roberto Buemi"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Topografia",
+    "shortDescription": "Workflow topografico: tracciamenti e rilievi",
+    "developerName": "Roberto Buemi",
+    "category": "Productivity"
+  }
+}
